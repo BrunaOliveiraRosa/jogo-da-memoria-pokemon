@@ -1,0 +1,11 @@
+/* mobile.css */
+@media (max-width: 768px) {
+    .timer {
+      font-size: 24px; /* Aumente o tamanho da fonte para dispositivos móveis */
+      background-color: #333; /* Adicione um fundo de cor diferente para destacar o tempo */
+      color: #fff; /* Defina a cor do texto para branco */
+      padding: 5px 10px; /* Adicione algum espaço interno para o temporizador */
+      border-radius: 5px; /* Arredonde as bordas do elemento */
+    }
+  }
+  
