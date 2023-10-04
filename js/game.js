@@ -120,3 +120,9 @@ window.onload = () => {
   startTimer();
   loadGame();
 };
+
+
+
+
+
+
